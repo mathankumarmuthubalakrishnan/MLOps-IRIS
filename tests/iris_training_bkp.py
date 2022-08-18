@@ -1,6 +1,6 @@
 import os
 import sys
-
+import azureml as ai
 
 import azureml as aml
 from azureml.core import Workspace, Datastore, Dataset
